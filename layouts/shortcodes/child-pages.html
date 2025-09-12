@@ -1,0 +1,11 @@
+{{ $pages := .Page.RegularPages.ByTitle }}
+{{ if $pages }}
+  {{ range $pages }}
+    {{ partial "shortcodes/card.html" (dict
+	  "page" $.Page
+	  "link" .RelPermalink
+	  "title" .Title
+	  "subtitle" .Description
+    ) }}
+  {{ end }}
+{{ end }}
