@@ -1,7 +1,7 @@
 {
   "builds": [
     {
-      "src": "hugo.yaml",
+      "src": "package.json",
       "use": "@vercel/static-build",
       "config": {
         "distDir": "public"

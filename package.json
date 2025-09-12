@@ -3,6 +3,6 @@
     "build": "hugo --gc --minify"
   },
   "devDependencies": {
-    "hugo-cli": "^0.150"
+    "hugo-cli": "^0.150.0"
   }
 }
