@@ -1,0 +1,17 @@
+{
+  "builds": [
+    {
+      "src": "hugo.yaml",
+      "use": "@vercel/hugo",
+      "config": {
+        "hugoVersion": "0.150.0"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
