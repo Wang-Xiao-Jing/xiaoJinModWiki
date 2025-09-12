@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee17d6e6-4cc7-4ddf-86a5-0c795591cda3" name="更改" comment="初始化">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
-    </list>
+    <list default="true" id="ee17d6e6-4cc7-4ddf-86a5-0c795591cda3" name="更改" comment="初始化" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757653627279</updated>
       <workItem from="1757653630098" duration="6710000" />
-      <workItem from="1757660468661" duration="1455000" />
+      <workItem from="1757660468661" duration="1610000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <option name="closed" value="true" />
@@ -230,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757661728888</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1757662024351</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757662024351</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
