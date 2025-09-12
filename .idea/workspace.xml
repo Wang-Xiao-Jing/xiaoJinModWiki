@@ -16,6 +16,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Wang-Xiao-Jing"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Wang-Xiao-Jing/xiaoJinModWiki",
@@ -69,6 +75,12 @@
       <recent name="D:\webpage\xiao_jin_mod_wiki\layouts\_default" />
       <recent name="D:\webpage\xiao_jin_mod_wiki\layouts\docs\list" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="git pull origin main" />
+      <command value="git push --force" />
+    </option>
   </component>
   <component name="RunManager" selected="Batch.启动网站">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
