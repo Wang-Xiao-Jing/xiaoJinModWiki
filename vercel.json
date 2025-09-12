@@ -2,9 +2,9 @@
   "builds": [
     {
       "src": "hugo.yaml",
-      "use": "@vercel/hugo",
+      "use": "@vercel/static-build",
       "config": {
-        "hugoVersion": "0.150.0"
+        "distDir": "public"
       }
     }
   ],
