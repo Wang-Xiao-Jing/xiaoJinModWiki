@@ -1,3 +1,11 @@
 {
-  "buildCommand": "hugo --gc --minify"
+  "buildCommand": "hugo --gc --minify",
+  "github": {
+    "silent": true
+  },
+  "build": {
+    "env": {
+      "GO_VERSION": "1.23"
+    }
+  }
 }
