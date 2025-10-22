@@ -12,6 +12,9 @@ cascade:
 {{< callout type="info" >}}
 **提示：** 按（默认）F6获取手持物品nbt
 {{< /callout >}}
+{{< callout type="info" >}}
+**提示：** 数字（字节，整数，浮点数）判断走的是大小判断，json小于的判断的数字则触发成功，判断只有1或0的字节判断请走布尔值判断
+{{< /callout >}}
 
 ### 示例
 ```json lines {linenos=table,filename="json"}
@@ -28,7 +31,7 @@ cascade:
     "nbt名称5": false,
     "nbt名称6": [
       {
-        "nbt名称7": "nbt值7"
+        "nbt键1": "nbt值7"
       }
     ]
   }

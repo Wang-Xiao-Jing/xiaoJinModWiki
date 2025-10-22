@@ -1,10 +1,10 @@
 ---
-title: "包含nbt includeNbt"
+title: "包含nbt include_nbt"
 cascade:
   type: docs
 ---
 
-## includeNbt
+## include_nbt
 值类型：字符串类型、字符串列表类型
 
 按照物品nbt中是否包含json所列出的nbt判断  
@@ -16,7 +16,7 @@ cascade:
 
 ### 示例
 ```json lines {linenos=table,filename="json"}
-{ "ios:includeNbt": "nbt名称" }
+{ "ios:include_nbt": "nbt名称" }
 
-{ "ios:includeNbt": ["nbt名称1", "nbt名称2"] }
+{ "ios:include_nbt": ["nbt名称1", "nbt名称2"] }
 ```
