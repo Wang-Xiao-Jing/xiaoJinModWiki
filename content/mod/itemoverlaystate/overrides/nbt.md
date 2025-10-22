@@ -28,7 +28,7 @@ cascade:
     "nbt名称5": false,
     "nbt名称6": [
       {
-        "nbt名称7": "nbt值7"
+        "nbt键1": "nbt值7"
       }
     ]
   }
