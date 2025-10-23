@@ -6,9 +6,6 @@ weight: 1
 ---
 
 ## 应用版本
-{{< callout type="info" >}}
-**注：** 数字类型判断是由大于等于即可
-{{< /callout >}}
 {{< tabs items="1.21.4-24w45a以前,1.21.4-24w45a以后" >}}
 
 {{< tab >}}
@@ -33,3 +30,6 @@ weight: 1
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## 注册新谓词 predicate
+[api 接口](../api)
