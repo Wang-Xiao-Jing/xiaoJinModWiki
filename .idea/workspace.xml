@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee17d6e6-4cc7-4ddf-86a5-0c795591cda3" name="更改" comment="更新">
-      <change afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/api.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mod/itemoverlaystate/overrides/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/predicate/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mod/itemoverlaystate/overrides/components.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/predicate/components.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mod/itemoverlaystate/overrides/damage.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/predicate/damage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mod/itemoverlaystate/overrides/day.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/predicate/day.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mod/itemoverlaystate/overrides/enchantment.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/predicate/enchantment.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mod/itemoverlaystate/overrides/include_components.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/predicate/include_components.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mod/itemoverlaystate/overrides/include_enchantment.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/predicate/include_enchantment.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mod/itemoverlaystate/overrides/include_nbt.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/predicate/include_nbt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mod/itemoverlaystate/overrides/name.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/predicate/name.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mod/itemoverlaystate/overrides/nbt.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/predicate/nbt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mod/itemoverlaystate/overrides/stacking.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/predicate/stacking.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mod/itemoverlaystate/overrides/time.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/predicate/time.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mod/itemoverlaystate/usage.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/mod/itemoverlaystate/usage.md" afterDir="false" />
-    </list>
+    <list default="true" id="ee17d6e6-4cc7-4ddf-86a5-0c795591cda3" name="更改" comment="更新" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +127,7 @@
       <workItem from="1759979178948" duration="605000" />
       <workItem from="1761017377242" duration="1678000" />
       <workItem from="1761108109480" duration="4527000" />
-      <workItem from="1761185006289" duration="641000" />
+      <workItem from="1761185006289" duration="1019000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <option name="closed" value="true" />
@@ -337,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761130470395</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="更新">
+      <option name="closed" value="true" />
+      <created>1761185658719</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1761185658719</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
